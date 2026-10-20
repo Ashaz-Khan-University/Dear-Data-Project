@@ -1,526 +1,122 @@
-Data
-Relate to timetable 
-Finish Time is <1
-1-2 2-5 >5 Tuesday 
-Monday 
-Device 
-Time
-Duration (mins)
-Type 
-Phone
-07:12
-<1
-Checking time 
-Watch 
-7:23
-<1
-Checking time 
-Phone 
-7:45
-2-5
-Reading text
-Display 
-7:56
-1-2
-Checking time, weather and calendar  
-Laptop
-7:58
-<1
-Check battery 
-Phone
-8:03
-1-2
-Check map 
-Sign/billboard 
-8:12
-<1
-Check train times 
-Sign/Billboard
-8:37
-<1
-Quick glance 
-Phone
-8:42
-1-2
-Checking calendar 
-Phone
-8:57
-1-2
-Check settings
-Laptop 
-9:04
->5
-Reading notes/working
-Projector 
-9:20
->5
-Reading notes 
-Watch
-10:42
-<1
-Checking time
-Laptop
-11:19
->5
-Working 
-Sign/billboard
-12:23
-<1
-Quick glance
-Laptop
-12:53
->5
-Working
-Watch 
-14:09
-<1
-Check time 
-Phone
-14:11
->5
-Social media 
-Laptop 
-15:02
->5
-Working 
-Projector 
-15:21
->5
-Reading text 
-Phone
-15:57
-1-2
-Check map 
-sign/board
-16:09
-<1
-Check train times 
-Phone
-16:11
-<1
-Check time 
-TV
-16:43
->5 
-Watching TV
-Laptop 
-17:26
->5
-Working 
-Phone 
-16:35
->5
-Social media 
-Watch 
-20:14
-<1
-Check time 
-TV
-20:15
->5
-Watching TV
-Phone 
-21:20
-1-2
-Reviewing dara
-Phone 
-22:07
->5
-Social media 
-Phone 
-22:55
-2-5
-Check data 
-Phone 
-23:02
-<1
-Check battery 
-
-Tuesday 
-Device 
-Time
-Duration (mins)
-Type 
-Phone
-07:10
-<1
-Checking time 
-Phone 
-7:34
-2-5
-Social media
-Display 
-7:49
-1-2
-Check weather 
-Watch 
-8:04
-<1
-Checking time  
-Laptop
-8:06
-<1
-Check battery 
-Sign/billboard 
-8:21
-<1
-Check train times 
-Phone 
-9:12
-1-2
-Check settings 
-Projector 
-9:14
->5
-Reading notes 
-Watch
-9:42
-<1
-Checking time
-Laptop
-11:03
->5
-Working 
-Sign/billboard
-11:34
-<1
-Quick glance
-Checkout system
-11:55
-2-5
-Buying food 
-Projector 
-14:04
->5
-Reading text  
-Laptop 
-14:11
->5
-Working 
-Phone 
-15:02
->5
-Social media  
-Projector 
-16:07
->5
-Reading notes  
-Laptop
-16:09
->5
-Working 
-Phone 
-16:54
-1-2
-Look at map 
-Sign:billboard 
-17:21
-<1
-Check train times 
-Phone 
-17:39
->5
-Social media 
-TV 
-19:03
->5
-Watching TV
-Watch 
-19:47
-<1
-Check time 
-Phone 
-20:36
-2-5
-Read messages 
-Phone 
-20:42
->5
-Social media 
-Watch 
-22:57
-<1
-Check battery 
-Phone
-23:07
-2-5
-Check data 
-Phone 
-23:14
-<1
-Check battery 
-
-Wednesday
-Device 
-Time
-Duration (mins)
-Type 
-Watch 
-8:40
-<1
-Checking time 
-Phone 
-8:43
->5
-Social media
-Display 
-9:16
-1-2
-Check weather  
-Laptop
-9:30
->5
-Working  
-Phone
-10:24
->5
-Social media 
-Laptop
-11:03
->5
-Reading text 
-Desktop 
-11:53
->5
-play video games
-Air fryer 
-13:48
-1-2
-Cook food 
-Phone 
-14:01
->5
-social media  
-Watch
-16:26
-<1
-Check time 
-Phone 
-16:45
->5
-Social media 
-Treadmill 
-17:05
-1-2
-Running 
-TV
-18:52
->5
-Watch TV
-Desktop 
-20:20
->5
-Play video games  
-Watch 
-21:49
-<1
-Check time 
-Phone 
-22:13
->5
-Social media 
-Phone 
-23:29
-1-2
-Check data
-
-Thursday 
-Device 
-Time
-Duration (mins)
-Type 
-Watch 
-7:36
-<1
-Checking time 
-Phone 
-7:40
->5
-Social media
-Laptop
-8:14
->5
-Working 
-Display 
-9:26
-1-2
-Check weather  
-Phone
-9:30
-1-3
-Check map 
-Sign/billboard
-9:36
-<1
-Check train times 
-Phone
-10:38
->5
-Social media 
-Projector 
-11:17
-2-5
-Read text 
-Autorefractor 
-11:33
-2-5
-Looking at image 
-Phone 
-11:54
-1-2
-Check map 
-Sign/billboard
-12:08
-<1
-Check train times 
-Phone 
-12:34
->5
-Social media  
-Phone 
-13:43
-1-2
-Check map 
-Phone 
-14:03
-<1
-Check train times 
-Phone
-14:20
->5
-Social media
-Laptop 
-15:07
->5
-Working 
-Phone 
-16:14
->5
-Social media 
-Laptop 
-16:58
->5
-Working
-Sign/billboard
-18:23
-<1
-Check bus times 
-Phone 
-18:45
-2-5
-Check map 
-Sign/billboard
-18:51
-<1
-Check train times 
-Phone 
-19:23
->5
-Social media 
-Watch 
-22:44
-<1
-Check time and battery 
-Phone
-23:36
-<1
-Check data 
-
-
-
-
-
-
-
-
-Friday 
-
-
-
-
-
-
-Device 
-Time
-Duration (mins)
-Type 
-Watch 
-8:31
-<1
-Checking time 
-Phone 
-8:43
->5
-Social media
-Laptop
-8:59
->5
-Working 
-Phone 
-10:02
-<1
-Check time 
-Phone 
-10:04
->5
-Social media 
-Display 
-10:43
-1-2
-Check weather  
-Phone
-10:54
-<1
-Check map  
-Sign/billboard  
-11:14
-<1
-Check train times  
-Phone 
-11:34
->5
-Social media 
-Laptop 
-12:09
->5
-Working 
-Air fryer 
-13:48
-1-2
-Cook food 
-Phone 
-14:01
->5
-social media  
-Laptop
-16:15
->5
-Working 
-Phone 
-16:49
-<1
-Check map 
-Sign/billboard 
-17:06
-<1
-Check train times 
-Phone 
-17:24
->5
-Social media 
-Watch 
-18:42
->5
-Check time 
-Desktop 
-19:12
->5  
-play video games 
-Phone 
-23:21
->5
-Social media 
-Phone 
-23:51
->5
-Check data 
+day,time,device,duration(mins),category, reason
+Monday,07:12,phone,under1,time,checking time
+Monday,07:23,watch,under1,time,checking time
+Monday,07:45,phone,2to5,reading,reading text
+Monday,07:56,display,1to2,weather,checking weather
+Monday,07:58,laptop,under1,battery,check battery
+Monday,08:03,phone,1to2,map,check map
+Monday,08:12,sign_billboard,under1,transport,check train times
+Monday,08:37,sign_billboard,under1,Ad,quick glance
+Monday,08:42,phone,1to2,calendar,checking calendar
+Monday,08:57,phone,1to2,settings,check settings
+Monday,09:04,laptop,over5,reading,reading notes/working
+Monday,09:20,projector,over5,reading,reading notes
+Monday,10:42,watch,under1,time,checking time
+Monday,11:19,laptop,over5,work,working
+Monday,12:23,sign_billboard,under1,glance,quick glance
+Monday,12:53,laptop,over5,work,working
+Monday,14:09,watch,under1,time,check time
+Monday,14:11,phone,over5,social_media,social media
+Monday,15:02,laptop,over5,work,working
+Monday,15:21,projector,over5,reading,reading text
+Monday,15:57,phone,1to2,map,check map
+Monday,16:09,sign_billboard,under1,transport,check train times
+Monday,16:11,phone,under1,time,check time
+Monday,16:35,phone,over5,social_media,social media
+Monday,16:43,tv,over5,tv,watching tv
+Monday,17:26,laptop,over5,work,working
+Monday,20:14,watch,under1,time,check time
+Monday,20:15,tv,over5,tv,watching tv
+Monday,21:20,phone,1to2,data,reviewing data
+Monday,22:07,phone,over5,social_media,social media
+Monday,22:55,phone,2to5,data,check data
+Monday,23:02,phone,under1,battery,check battery
+Tuesday,07:10,phone,under1,time,checking time
+Tuesday,07:34,phone,2to5,social_media,social media
+Tuesday,07:49,display,1to2,weather,check weather
+Tuesday,08:04,watch,under1,time,checking time
+Tuesday,08:06,laptop,under1,battery,check battery
+Tuesday,08:21,sign_billboard,under1,transport,check train times
+Tuesday,09:12,phone,1to2,settings,check settings
+Tuesday,09:14,projector,over5,reading,reading notes
+Tuesday,09:42,watch,under1,time,checking time
+Tuesday,11:03,laptop,over5,work,working
+Tuesday,11:34,sign_billboard,under1,glance,quick glance
+Tuesday,11:55,checkout_system,2to5,shopping,buying food
+Tuesday,14:04,projector,over5,reading,reading text
+Tuesday,14:11,laptop,over5,work,working
+Tuesday,15:02,phone,over5,social_media,social media
+Tuesday,16:07,projector,over5,reading,reading notes
+Tuesday,16:09,laptop,over5,work,working
+Tuesday,16:54,phone,1to2,map,look at map
+Tuesday,17:21,sign_billboard,under1,transport,check train times
+Tuesday,17:39,phone,over5,social_media,social media
+Tuesday,19:03,tv,over5,tv,watching tv
+Tuesday,19:47,watch,under1,time,check time
+Tuesday,20:36,phone,2to5,messages,read messages
+Tuesday,20:42,phone,over5,social_media,social media
+Tuesday,22:57,watch,under1,battery,check battery
+Tuesday,23:07,phone,2to5,data,check data
+Tuesday,23:14,phone,under1,battery,check battery
+Wednesday,08:40,watch,under1,time,checking time
+Wednesday,08:43,phone,over5,social_media,social media
+Wednesday,09:16,display,1to2,weather,check weather
+Wednesday,09:30,laptop,over5,work,working
+Wednesday,10:24,phone,over5,social_media,social media
+Wednesday,11:03,laptop,over5,reading,reading text
+Wednesday,11:53,desktop,over5,gaming,play video games
+Wednesday,13:48,air_fryer,1to2,cooking,cook food
+Wednesday,14:01,phone,over5,social_media,social media
+Wednesday,16:26,watch,under1,time,check time
+Wednesday,16:45,phone,over5,social_media,social media
+Wednesday,17:05,treadmill,1to2,exercise,running
+Wednesday,18:52,tv,over5,tv,watch tv
+Wednesday,20:20,desktop,over5,gaming,play video games
+Wednesday,21:49,watch,under1,time,check time
+Wednesday,22:13,phone,over5,social_media,social media
+Wednesday,23:29,phone,1to2,data,check data
+Thursday,07:36,watch,under1,time,checking time
+Thursday,07:40,phone,over5,social_media,social media
+Thursday,08:14,laptop,over5,work,working
+Thursday,09:26,display,1to2,weather,check weather
+Thursday,09:30,phone,1to2,map,check map
+Thursday,09:36,sign_billboard,under1,transport,check train times
+Thursday,10:38,phone,over5,social_media,social media
+Thursday,11:17,projector,2to5,reading,read text
+Thursday,11:33,autorefractor,2to5,other,looking at image
+Thursday,11:54,phone,1to2,map,check map
+Thursday,12:08,sign_billboard,under1,transport,check train times
+Thursday,12:34,phone,over5,social_media,social media
+Thursday,13:43,phone,1to2,map,check map
+Thursday,14:03,phone,under1,transport,check train times
+Thursday,14:20,phone,over5,social_media,social media
+Thursday,15:07,laptop,over5,work,working
+Thursday,16:14,phone,over5,social_media,social media
+Thursday,16:58,laptop,over5,work,working
+Thursday,18:23,sign_billboard,under1,transport,check bus times
+Thursday,18:45,phone,2to5,map,check map
+Thursday,18:51,sign_billboard,under1,transport,check train times
+Thursday,19:23,phone,over5,social_media,social media
+Thursday,22:44,watch,under1,time,check time and battery
+Thursday,23:36,phone,under1,data,check data
+Friday,08:31,watch,under1,time,checking time
+Friday,08:43,phone,over5,social_media,social media
+Friday,08:59,laptop,over5,work,working
+Friday,10:02,phone,under1,time,check time
+Friday,10:04,phone,over5,social_media,social media
+Friday,10:43,display,1to2,weather,check weather
+Friday,10:54,phone,under1,map,check map
+Friday,11:14,sign_billboard,under1,transport,check train times
+Friday,11:34,phone,over5,social_media,social media
+Friday,12:09,laptop,over5,work,working
+Friday,13:48,air_fryer,1to2,cooking,cook food
+Friday,14:01,phone,over5,social_media,social media
+Friday,16:15,laptop,over5,work,working
+Friday,16:49,phone,under1,map,check map
+Friday,17:06,sign_billboard,under1,transport,check train times
+Friday,17:24,phone,over5,social_media,social media
+Friday,18:42,watch,over5,time,check time
+Friday,19:12,desktop,over5,gaming,play video games
+Friday,23:21,phone,over5,social_media,social media
+Friday,23:51,phone,over5,data,check data
+ 
