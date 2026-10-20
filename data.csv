@@ -1,4 +1,4 @@
-day,time,device,duration(mins),category, reason
+day,time,device,duration(mins),category,reason
 Monday,07:12,phone,under1,time,checking time
 Monday,07:23,watch,under1,time,checking time
 Monday,07:45,phone,2to5,reading,reading text
